@@ -1,0 +1,49 @@
+{
+    "Version": "1.0",
+    "UserName": "",
+    "GitUserName": "",
+    "GitUserEmail": "",
+    "DriveLayout": {
+        "System": "C:",
+        "Workspace": "D:",
+        "Cache": "E:",
+        "Archive": "F:",
+        "ColdStorage": "H:"
+    },
+    "ReportPath": "F:\\Backups\\ConfigExports\\FreshStart-Reports",
+    "Accessibility": {
+        "DarkMode": true,
+        "DisableAnimations": true,
+        "DisableTransparency": true,
+        "DisableStickyKeys": true,
+        "DisableMouseAcceleration": false,
+        "PointerSize": 3,
+        "PointerColor": "white",
+        "CursorThickness": 3,
+        "TextScaleFactor": 100,
+        "DisableFilterKeys": true,
+        "DisableToggleKeys": true,
+        "ScrollLines": 5,
+        "KeyboardDelay": 2,
+        "KeyboardSpeed": 20,
+        "ScreenTimeoutMinutes": 30,
+        "NeverSleepOnAC": true
+    },
+    "WingetApps": [
+        "Git.Git",
+        "Microsoft.VisualStudioCode",
+        "Python.Python.3.12",
+        "OpenJS.NodeJS.LTS",
+        "Docker.DockerDesktop",
+        "Ollama.Ollama",
+        "Microsoft.WindowsTerminal",
+        "7zip.7zip",
+        "VideoLAN.VLC",
+        "Valve.Steam",
+        "Notepad++.Notepad++",
+        "Microsoft.PowerToys",
+        "Nvidia.GeForceExperience",
+        "Guru3D.MSIAfterburner",
+        "FanControl.FanControl"
+    ]
+}
